@@ -1,0 +1,54 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "Guitar for Beginners",
+      "slug": "guitar-for-beginners",
+      "description": "Learn the basics of playing the guitar, including chords, strumming patterns, and simple songs.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500&h=300&fit=crop",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Piano Masterclass",
+      "slug": "piano-masterclass",
+      "description": "Master the piano with this comprehensive course covering technique, theory, and performance.",
+      "price": 99.99,
+      "instructor": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1552422535-c45813c61732?w=500&h=300&fit=crop",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Get started with drumming by learning basic rhythms, techniques, and popular beats.",
+      "price": 39.99,
+      "instructor": "Mike Johnson",
+      "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=500&h=300&fit=crop",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training",
+      "slug": "vocal-training",
+      "description": "Improve your singing skills with vocal exercises, breathing techniques, and performance tips.",
+      "price": 59.99,
+      "instructor": "Emily Davis",
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=500&h=300&fit=crop",
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "title": "Music Theory Fundamentals",
+      "slug": "music-theory-fundamentals",
+      "description": "Understand the basics of music theory, including scales, chords, and harmony.",
+      "price": 29.99,
+      "instructor": "David Lee",
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=500&h=300&fit=crop",
+      "isFeatured": true
+    }
+  ]
+}
